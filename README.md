@@ -1,4 +1,4 @@
-# HAIII :3 
+# HAIII 🩷
 
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=aleezazahra&show_icons=true&theme=radical)
@@ -19,8 +19,8 @@
 ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Supabase](https://skillicons.dev/icons?i=supabase) ![SQL](https://skillicons.dev/icons?i=postgres)
 
 ## AI
-
-![OpenAI](https://skillicons.dev/icons?i=openai) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+Codex , hermes , opencode blah blah 😹
 
 ## 🛠️ Tools & Deployment
 
