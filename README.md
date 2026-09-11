@@ -1,27 +1,30 @@
-# Hi, I'm Aleeza 👋
+# HAIII :3 
 
-Full-stack developer building web apps — React/TypeScript frontends, Express/Node backends, MongoDB. Active in Hack Club.
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=aleezazahra&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aleezazahra&layout=compact&theme=radical)
 
 ---
 
-## 🖥️ Frontend
+## Frontend
 
-![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Vite](https://skillicons.dev/icons?i=vite) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![Redux](https://skillicons.dev/icons?i=redux) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Vite](https://skillicons.dev/icons?i=vite) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![Redux](https://skillicons.dev/icons?i=redux) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
 
-## ⚙️ Backend
+## Backend
 
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express)
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python)
 
-## 🗄️ Database
+## Database
 
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Supabase](https://skillicons.dev/icons?i=supabase) ![SQL](https://skillicons.dev/icons?i=postgres)
+
+## AI
+
+![OpenAI](https://skillicons.dev/icons?i=openai) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ## 🛠️ Tools & Deployment
 
-![Vercel](https://skillicons.dev/icons?i=vercel) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman)
+![Vercel](https://skillicons.dev/icons?i=vercel) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash) ![Selenium](https://skillicons.dev/icons?i=selenium)
 
 ---
 
